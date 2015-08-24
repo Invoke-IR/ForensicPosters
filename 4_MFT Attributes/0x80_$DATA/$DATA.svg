@@ -30,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.050338"
-     inkscape:cx="543.6107"
-     inkscape:cy="268.07747"
+     inkscape:cx="398.41934"
+     inkscape:cy="267.1254"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -116,10 +116,10 @@
            id="tspan3683">80 00 00 00</tspan><tspan
            style="fill:#808000"
            id="tspan3685"> 38 00 00 00</tspan><tspan
+           id="tspan4217"
+           style="fill:#008000"> 00</tspan><tspan
            style="fill:#008080"
-           id="tspan3693"><tspan
-   style="fill:#008000"
-   id="tspan5196"> 00</tspan> 00</tspan><tspan
+           id="tspan3693"> 00</tspan><tspan
            style="fill:#000080"
            id="tspan3691"> 18 00</tspan><tspan
            style="fill:#800080"
@@ -143,12 +143,7 @@
          x="19.409245"
          y="786.6665"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#784421;fill-opacity:1"
-         id="tspan3663">6C 00 6F 00 20 00 57 00 6F 00 72 00 6C 00 64 00 </tspan><tspan
-         sodipodi:role="line"
-         x="19.409245"
-         y="802.2915"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#784421;fill-opacity:1"
-         id="tspan3681">0D 00 0A 00 </tspan></text>
+         id="tspan3681">6C 00 6F 00 20 00 57 00 6F 00 72 00 6C 00 64 00  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -162,7 +157,7 @@
          y="509.17068" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.65748024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 919.3919,588.60683 -476.69662,0 c -0.023,0.0634 -57.59053,147.33436 -57.59053,147.33436 l -374.15328,-1.47127 0,75.69018 378.15328,-0.1148 42.97514,37.52301 487.40061,0"
+       d="m 919.3919,588.60683 -476.69662,0 c -0.023,0.0634 -57.59053,147.33436 -57.59053,147.33436 l -374.15328,-1.47127 0,59.69018 378.15328,-0.1148 42.97514,53.52301 487.40061,0"
        id="path7904"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
