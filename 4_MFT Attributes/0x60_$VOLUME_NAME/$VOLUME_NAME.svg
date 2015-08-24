@@ -16,8 +16,8 @@
    id="svg4998"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="$DATA.svg"
-   inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\4_MFT Attributes\0x80_$DATA\$DATA.png"
+   sodipodi:docname="$VOLUME_NAME.svg"
+   inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\4_MFT Attributes\0x60_$VOLUME_NAME\$VOLUME_NAME.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.050338"
-     inkscape:cx="543.6107"
-     inkscape:cy="268.07747"
+     inkscape:zoom="0.98000001"
+     inkscape:cx="291.92078"
+     inkscape:cy="418.4369"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,7 @@
          x="460.70456"
          y="407.75677"
          id="tspan5022"
-         style="font-size:80px;line-height:89.99999762%">$DATA</tspan><tspan
+         style="font-size:80px;line-height:89.99999762%">$VOLUME_NAME</tspan><tspan
          sodipodi:role="line"
          x="460.70456"
          y="479.75677"
@@ -113,42 +113,37 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#d40055"
          id="tspan3659"><tspan
            style="fill:#800000"
-           id="tspan3683">80 00 00 00</tspan><tspan
+           id="tspan3683">60 00 00 00</tspan><tspan
            style="fill:#808000"
-           id="tspan3685"> 38 00 00 00</tspan><tspan
+           id="tspan3685"> 20 00 00 00</tspan><tspan
+           id="tspan4217"
+           style="fill:#008000"> 00</tspan><tspan
            style="fill:#008080"
-           id="tspan3693"><tspan
-   style="fill:#008000"
-   id="tspan5196"> 00</tspan> 00</tspan><tspan
+           id="tspan3693"> 00</tspan><tspan
            style="fill:#000080"
            id="tspan3691"> 18 00</tspan><tspan
            style="fill:#800080"
            id="tspan3689"> 00 00</tspan><tspan
            style="fill:#ff0000"
-           id="tspan3687"> 01 00</tspan></tspan><tspan
+           id="tspan3687"> 04 00</tspan></tspan><tspan
          sodipodi:role="line"
          x="19.409245"
          y="771.0415"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#d40055"
          id="tspan3661"><tspan
    style="fill:#d4aa00;fill-opacity:1"
-   id="tspan4495">1C 00 00 00</tspan> 18 00 <tspan
+   id="tspan4495">08 00 00 00</tspan> 18 00 <tspan
    style="fill:#0000ff"
    id="tspan4499">00 </tspan><tspan
    id="tspan4505"
    style="fill:#000000">00</tspan><tspan
    style="fill:#784421;fill-opacity:1"
-   id="tspan4507"> FF FE 48 00 65 00 6C 00 </tspan></tspan><tspan
+   id="tspan4507"> 76 00 6F 00 6C 00 30 00 </tspan></tspan><tspan
          sodipodi:role="line"
          x="19.409245"
          y="786.6665"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#784421;fill-opacity:1"
-         id="tspan3663">6C 00 6F 00 20 00 57 00 6F 00 72 00 6C 00 64 00 </tspan><tspan
-         sodipodi:role="line"
-         x="19.409245"
-         y="802.2915"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12.5px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console Semi-Condensed';fill:#784421;fill-opacity:1"
-         id="tspan3681">0D 00 0A 00 </tspan></text>
+         id="tspan3681" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -162,7 +157,7 @@
          y="509.17068" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.65748024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 919.3919,588.60683 -476.69662,0 c -0.023,0.0634 -57.59053,147.33436 -57.59053,147.33436 l -374.15328,-1.47127 0,75.69018 378.15328,-0.1148 42.97514,37.52301 487.40061,0"
+       d="m 919.3919,588.60683 -476.69662,0 c -0.023,0.0634 -57.59053,147.33436 -57.59053,147.33436 l -374.15328,-1.47127 0,45.69018 378.15328,-0.1148 42.97514,67.52301 487.40061,0"
        id="path7904"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -295,12 +290,12 @@
          x="541.59283"
          y="792.56543"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Aracne Regular';-inkscape-font-specification:'Aracne Regular, ';text-align:center;text-anchor:middle"
-         id="tspan5906">DATA</tspan><tspan
+         id="tspan5908">Volume</tspan><tspan
          sodipodi:role="line"
          x="541.59283"
          y="828.56543"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Aracne Regular';-inkscape-font-specification:'Aracne Regular, ';text-align:center;text-anchor:middle"
-         id="tspan5908">Attribute</tspan></text>
+         id="tspan4221">Name</tspan></text>
     <image
        y="342.10107"
        x="7.8732719"
@@ -348,12 +343,12 @@
          id="tspan9090-5-3"
          x="815.83691"
          y="609.53009"
-         style="font-size:10px;fill:#800000">0x80 - data</tspan><tspan
+         style="font-size:10px;fill:#800000">0x60 - volume name</tspan><tspan
          sodipodi:role="line"
          x="815.83691"
          y="622.03009"
          style="font-size:10px;fill:#808000"
-         id="tspan9720-6">0x38</tspan><tspan
+         id="tspan9720-6">0x20</tspan><tspan
          sodipodi:role="line"
          x="815.83691"
          y="634.53009"
@@ -378,7 +373,7 @@
          x="815.83691"
          y="684.53009"
          id="tspan9094-1-9"
-         style="font-size:10px;fill:#ff0000">0x01</tspan><tspan
+         style="font-size:10px;fill:#ff0000">0x04</tspan><tspan
          sodipodi:role="line"
          x="815.83691"
          y="697.03009"
@@ -388,7 +383,7 @@
          x="815.83691"
          y="709.53009"
          id="tspan9098-5-6"
-         style="font-size:10px;fill:#d4aa00">0x1C</tspan><tspan
+         style="font-size:10px;fill:#d4aa00">0x08</tspan><tspan
          sodipodi:role="line"
          x="815.83691"
          y="722.03009"
@@ -478,14 +473,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:250px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="675.00006"
-       y="809.02881"
+       x="730.2204"
+       y="809.9809"
        id="text4697"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4699"
-         x="675.00006"
-         y="809.02881"
-         style="font-size:40px;fill:#784421">Hello World</tspan></text>
+         x="730.2204"
+         y="809.9809"
+         style="font-size:40px;fill:#784421">vol0</tspan></text>
   </g>
 </svg>
