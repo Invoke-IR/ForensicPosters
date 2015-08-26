@@ -18,6 +18,8 @@
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/0_Master%20File%20Table%20Record/MFT%20Attributes/0x90_$INDEX_ROOT/$INDEX_ROOT.png?raw=true "$INDEX_ROOT Attribute")
 
+![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/0_Master%20File%20Table%20Record/MFT%20Attributes/0xA0_$INDEX_ALLOCATION/$INDEX_ALLOCATION.png?raw=true "$INDEX_ALLOCATION Attribute")
+
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/0_Master%20File%20Table%20Record/MFT%20Attributes/_NonResident/NonResident.png?raw=true "Non-Resident Attribute")
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/11_$Extend/$UsnJrnl/$UsnJrnl_$Max.png?raw=true "UsnJrnl $J Data Stream")
