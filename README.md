@@ -8,6 +8,8 @@
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/0x10_$STANDARD_INFORMATION.png?raw=true "$STANDARD_INFORMATION Attribute")
 
+![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/0x20_$ATTRIBUTE_LIST.png?raw=true "$ATTRIBUTE_LIST Attribute")
+
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/0x30_$FILE_NAME.png?raw=true "$FILE_NAME Attribute")
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/0x60_$VOLUME_NAME.png?raw=true "$VOLUME_NAME Attribute")
@@ -27,5 +29,9 @@
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/$UsnJrnl_$Max.png?raw=true "$UsnJrnl $Max Data Stream")
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/$UsnJrnl_$J.png?raw=true "UsnJrnl $J Data Stream")
+
+![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Registry_Header.png?raw=true "Registry Header")
+
+![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Registry_NamedKey.png?raw=true "Registry Named Key")
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Prefetch101.png?raw=true "Windows 8 Prefetch")
