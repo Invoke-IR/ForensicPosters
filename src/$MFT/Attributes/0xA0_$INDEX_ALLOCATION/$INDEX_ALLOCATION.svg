@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="$INDEX_ALLOCATION.svg"
-   inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\0_Master File Table Record\MFT Attributes\0xA0_$INDEX_ALLOCATION\$INDEX_ALLOCATION.png"
+   inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\Posters\0xA0_$INDEX_ALLOCATION.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -30,15 +30,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0149341"
-     inkscape:cx="183.67014"
-     inkscape:cy="197.46728"
+     inkscape:cx="536.61244"
+     inkscape:cy="316.08158"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      showguides="false"
      inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:window-height="737"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -387,7 +387,7 @@
          x="453.64221"
          y="640.32617"
          style="font-size:8.75px;fill:#008000"
-         id="tspan41298">size of intry</tspan><tspan
+         id="tspan41298">size of entry</tspan><tspan
          sodipodi:role="line"
          x="453.64221"
          y="651.26367"
@@ -492,7 +492,7 @@
          x="453.64221"
          y="870.01367"
          style="font-size:8.75px;fill:#008000"
-         id="tspan42582">size of intry</tspan><tspan
+         id="tspan42582">size of entry</tspan><tspan
          sodipodi:role="line"
          x="453.64221"
          y="880.95117"
