@@ -47,10 +47,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89"
-     inkscape:cx="401.69862"
-     inkscape:cy="512.85502"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.72776573"
+     inkscape:cx="296.64244"
+     inkscape:cy="378.02356"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1368"
@@ -81,6 +81,13 @@
        id="path3573"
        inkscape:connector-curvature="0"
        transform="matrix(0.28222226,0,0,0.28222224,-8.6127399e-6,0)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       id="rect3591"
+       width="280.37415"
+       height="215.61275"
+       x="-4.6535215"
+       y="-5.4324603" />
   </g>
   <g
      inkscape:label="Structure"

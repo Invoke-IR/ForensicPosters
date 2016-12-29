@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88957197"
-     inkscape:cx="396.05772"
-     inkscape:cy="573.1551"
+     inkscape:zoom="0.77441738"
+     inkscape:cx="404.51483"
+     inkscape:cy="317.9762"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      showguides="false"
@@ -57,7 +57,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Base" />
+     inkscape:label="Base">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       id="rect3398"
+       width="993.00458"
+       height="763.15436"
+       x="-16.786814"
+       y="-14.745907" />
+  </g>
   <g
      inkscape:label="Structure"
      inkscape:groupmode="layer"

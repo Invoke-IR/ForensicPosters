@@ -30,10 +30,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79"
-     inkscape:cx="534.27944"
-     inkscape:cy="418.4369"
+     inkscape:cx="415.92501"
+     inkscape:cy="333.62677"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      showguides="false"
@@ -57,7 +57,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Base" />
+     inkscape:label="Base">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       id="rect3432"
+       width="997.46838"
+       height="750.63293"
+       x="-29.113924"
+       y="-10.379746" />
+  </g>
   <g
      inkscape:label="Structure"
      inkscape:groupmode="layer"
