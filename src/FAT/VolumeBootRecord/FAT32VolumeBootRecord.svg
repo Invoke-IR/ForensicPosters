@@ -20,7 +20,7 @@
    inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\Posters\7_$Boot(VBR).png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   sodipodi:docname="VolumeBootRecord101.svg">
+   sodipodi:docname="FAT32VolumeBootRecord.svg">
   <defs
      id="defs3">
     <inkscape:perspective
@@ -67,14 +67,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.08"
-     inkscape:cx="915.4566"
-     inkscape:cy="208.41276"
+     inkscape:zoom="0.69044441"
+     inkscape:cx="587.58701"
+     inkscape:cy="266.34646"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="737"
+     inkscape:window-width="1368"
+     inkscape:window-height="849"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +106,7 @@
          id="tspan7837"
          x="128.73294"
          y="110.76583"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555801px;line-height:82.99999833%;font-family:'Aracne Regular';-inkscape-font-specification:'Aracne Regular, ';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1">ntfs</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555801px;line-height:82.99999833%;font-family:'Aracne Regular';-inkscape-font-specification:'Aracne Regular, ';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1">FAT32</tspan><tspan
          sodipodi:role="line"
          x="128.73294"
          y="130.87325"
@@ -662,12 +662,12 @@
        x="265.3251"
        y="111.19041" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.75000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.67951262;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
        id="rect10700"
-       width="8.3727646"
-       height="1.8187721"
-       x="36.297386"
-       y="93.936241" />
+       width="8.4432516"
+       height="1.480505"
+       x="36.262142"
+       y="94.309753" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11.28888988px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
