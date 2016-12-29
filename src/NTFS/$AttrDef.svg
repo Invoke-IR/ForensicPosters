@@ -19,7 +19,8 @@
    sodipodi:docname="$AttrDef.svg"
    inkscape:export-filename="C:\Users\Uproot\Documents\GitHub\Forensic-Posters\4_$AttrDef\$AttrDef.png"
    inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-ydpi="300"
+   enable-background="new">
   <defs
      id="defs5000">
     <inkscape:path-effect
@@ -35,10 +36,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88957197"
-     inkscape:cx="349.45508"
-     inkscape:cy="407.13426"
+     inkscape:cx="378.57677"
+     inkscape:cy="497.06515"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      showguides="false"
@@ -55,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +64,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Base"
-     style="display:inline" />
+     style="display:inline;opacity:1;">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1"
+       id="rect3506"
+       width="943.15027"
+       height="719.44714"
+       x="1.1241362"
+       y="1.677007" />
+  </g>
   <g
      inkscape:label="Structure"
      inkscape:groupmode="layer"
