@@ -1,6 +1,6 @@
-![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/BootSectors/MasterBootRecord.png?raw=true "Master Boot Record")
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/MasterBootRecord.svg "Master Boot Record")
 
-![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/BootSectors/GuidPartitionTable.png?raw=true "Guid Partition Table")
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/BootSectors/GuidPartitionTable.svg "Guid Partition Table")
 
 ![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/NTFS/NTFSVolumeBootRecord.svg "$Boot (Volume Boot Record)")
 
@@ -30,8 +30,14 @@
 
 ![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/NTFS/%24UsnJrnl_%24J.svg "UsnJrnl $J Data Stream")
 
-![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Registry_Header.png?raw=true "Registry Header")
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/WindowsRegistry/RegistryHeader.svg "Registry Header")
 
-![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Registry_NamedKey.png?raw=true "Registry Named Key")
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/WindowsRegistry/NamedKey.svg "Registry Named Key")
+
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/WindowsRegistry/SecurityKey.svg "Registry Security Key")
+
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/WindowsRegistry/ValueKey.svg "Registry Value Key")
+
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/Artifacts/ScheduledJob.svg "Scheduled Job")
 
 ![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Prefetch101.png?raw=true "Windows 8 Prefetch")
