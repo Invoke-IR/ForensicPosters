@@ -1,4 +1,4 @@
-![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/MasterBootRecord.svg "Master Boot Record")
+![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/BootSectors/MasterBootRecord.svg "Master Boot Record")
 
 ![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/BootSectors/GuidPartitionTable.svg "Guid Partition Table")
 
