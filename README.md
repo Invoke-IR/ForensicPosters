@@ -40,4 +40,4 @@
 
 ![alt text](https://cdn.rawgit.com/Invoke-IR/ForensicPosters/master/src/Artifacts/ScheduledJob.svg "Scheduled Job")
 
-![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Prefetch101.png?raw=true "Windows 8 Prefetch")
+![alt text](https://github.com/Invoke-IR/Forensic-Posters/blob/master/Posters/Artifacts/Prefetch101.png?raw=true "Windows 8 Prefetch")
